@@ -159,8 +159,6 @@ Resumen
   selección bonito y personalizable que, de seguro, quedará muy bien en tu página.
 
 
-/****************************************/
-
 .container: ancho fijo ***
 .container-fluid: ancho fluido ***
 mt - margin top ***
@@ -186,39 +184,37 @@ offset = espacios en blanco entre columnas ***
 
 Alinear un texto para un tamaño de pantalla especifico
 Por defecto
-<div class="text-center"></div>
-<div class="text-right"></div>
-<div class="text-left"></div>
+text-center ***
+text-right ***
+text-left ***
 Small
-<div class="text-sm-center"></div>
-<div class="text-sm-right"></div>
-<div class="text-sm-left"></div>
+text-sm-center ***
+text-sm-right ***
+text-sm-left ***
 Medium
-<div class="text-md-center"></div>
-<div class="text-md-right"></div>
-<div class="text-md-left"></div>
+text-md-center ***
+text-md-right ***
+text-md-lef t***
 Large
-<div class="text-lg-center"></div>
-<div class="text-lg-right"></div>
-<div class="text-lg-left"></div>
+text-lg-center ***
+text-lg-right ***
+text-lg-left ***
 Extra Large
-<div class="text-xl-center"></div>
-<div class="text-xl-right"></div>
-<div class="text-xl-left"></div>
-Ocultar un elemento para un tamaño de pantalla especifico
+text-xl-center ***
+text-xl-right ***
+text-xl-left ***
 
-Por defecto
-<p class="d-none"></p>
-Small
-<p class="d-sm-none"></p>
-Medium
-<p class="d-md-none"></p>
-Large
-<p class="d-lg-none"></p>
-Extra Large
-<p class="d-xl-none"></p>
-Mostrar un elemento para un tamaño de pantalla especifico
+
+* Ocultar un elemento para un tamaño de pantalla especifico Por defecto ***
+d-none ***
+Small ***
+d-sm-none ***
+Medium ***
+d-md-none ***
+Large ***
+d-lg-none ***
+Extra Large ***
+d-xl-none ***
+Mostrar un elemento para un tamaño de pantalla especifico 
 Nota: se usara esta clase solo si se oculto el elemento.
-
-/****************************************/
 
