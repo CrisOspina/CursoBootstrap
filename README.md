@@ -62,28 +62,28 @@ Resumen
 
 * Plugins interesantes para Bootstrap 3 algunas ya se encuentran actualizados para Bootstrap 4:
 
-  1. Fuel UX
+  1. Fuel UX = 
   Fuel UX es una increíble colección de mejoras para Twitter Bootstrap. 
   Todos los controles son limpios y ligeros, y se ajustan de forma natural 
   al aspecto de Bootstrap. La colección incluye controles como datagrids, 
   cajas de selección personalizadas, spinners, árboles, formularios 
   en varios pasos y más.
 
-  2. Jasny
+  2. Jasny = 
   Jasny es otra colección de componentes para Bootstrap. Cuenta con 
   controles como máscaras de entrada, botones de subida de archivos, 
   iconos, estilos adicionales para otros componentes y demás. Existe 
   una versión de Bootstrap con todos los cambios integrados que se puede 
   descargar de forma separada o solo el plugin.
 
-  3. Bootstrap Lightbox
+  3. Bootstrap Lightbox =
   Bootstrap por defecto incluye un carrusel, pero se queda un pelín corto 
   cuando necesitas mostrar la imagen en un lightbox. De eso es de lo que 
   se ocupa Bootstrap Lightbox. Solamente debes añadir el código necesario 
   y en los futuros carruseles que implementes en tu web tendrás la opción 
   de ampliarlos mediante un lightbox responsive.
 
-  4. Simple Lightbox
+  4. Simple Lightbox =
   Simple Lightbox es otro plugin para mostrar una vista previa de imágenes 
   mediante una ventana modal, mucho más simple que el que te hemos mostrado 
   antes. Para implementarlo solamente hay que añadir un atributo especial a 
@@ -95,38 +95,38 @@ Resumen
   puedes conseguir una cuadrícula de imágenes que se abren en ventanas modales. 
   La galería, de manera opcional, puede entrar en modo de pantalla completa.
 
-  6. Bootbox.js
+  6. Bootbox.js =
   Bootbox.js es una pequeña biblioteca JavaScript que automatiza el proceso de 
   creación de los cuadros de diálogo en Bootstrap. Este plugin te lo pone bien 
   sencillo, todo lo que tienes que hacer para mostrar un cuadro de diálogo en 
   Bootstrap es llamar a una función. Es super útil para mostrar mensajes de 
   alerta, de confirmación y de satisfacción.
 
-  7. Bootstrap Modal
+  7. Bootstrap Modal =
   Seguramente ya sabréis qué hace este plugin por su nombre. En efecto, 
   Bootstrap Modal mejora la clase modal que hay en Bootstrap por defecto. 
   Otorga la capacidad de cargar contenido en dichos modales a través de AJAX, 
   cosa de lo que peca la opción por defecto.
 
-  8. Bootstrap Growl
+  8. Bootstrap Growl =
   Bootstrap Growl es un plugin que convierte las notificaciones de Bootstrap, 
   en bonitas alertas Growl que se pueden personalizar al 100%. Puedes elegir 
   la posición de la notificación respecto a la pantalla, las dimensiones, 
   configurar una animación y el tiempo que tarda en desvanecerse.
 
-  9. Bootstrap Notify
+  9. Bootstrap Notify =
   Bootstrap Notify es una extensión muy fácil de utilizar para las 
   notificaciones de Bootstrap. Al igual que Bootstrap Growl, con este 
   plugin también puedes personalizar todos los aspectos de las notificaciones 
   e incluso, hasta donde deben mostrarse.
 
-  10. Bootstrap Form Helpers
+  10. Bootstrap Form Helpers =
   Bootstrap Form Helpers es una colección imprescindible para la mejora de 
   formularios web. Viene con 12 plugins jQuery personalizados que te ofrecen 
   de todo, desde nuevos controles para fecha y hora, listas de fuentes, campos 
   para idioma y paises y demás.
 
-  11. Bootstrap Tags
+  11. Bootstrap Tags =
   Bootstrap Tags es un plugin ideal para la inserción de tags en formularios. 
   Si pretendemos que un usuario deba introducir unos parámetros que deben ser 
   recogidos por separado, Bootstrap Tags puede convertirse en tu mejor aliado 
@@ -134,25 +134,25 @@ Resumen
   no solo tiene soporte para tags, con este plugin también podrás crear popovers, 
   placeholders y demás…
 
-  12. Bootstrap Switch
+  12. Bootstrap Switch =
   Una interfaz móvil no esta completa sin su control de estilo switch, y 
   Bootstrap Switch te otorga el poder de poder llevarlo a cabo en tus páginas 
   web siempre respetando el estilo de Bootstrap. Puedes personalizar el tamaño 
   del control, así como los colores mediante la asignación de distintos nombre 
   de clase al elemento.
 
-  13. Bootstrap Markdown
+  13. Bootstrap Markdown =
   Bootstrap Markdown te permite la edición de Markdown en tus proyectos web de 
   una manera fácil y sencilla. Solamente tendrás que agregar los archivos 
   necesarios en tu página web, y ya podrás utilizarlo.
 
-  14. Bootstrap Maxlength
+  14. Bootstrap Maxlength =
   Bootstrap MaxLength es un pequeño plugin que detecta la propiedad maxlength 
   de HTML en un campo de texto, y muestra un contador interactivo con los 
   caracteres restantes. Es una gran compoenente que no está de más para añadirlo 
   a los cuadros de texto de tus formularios.
 
-  15. Bootstrap Select
+  15. Bootstrap Select =
   Bootstrap favorece los controles nativos del navegador. Sin embargo, en algunos 
   proyectos es útil contar con controles personalizables, como los selects, y eso 
   es lo que hace exáctamente Bootstrap Select. Este plugin te muestra un cuadro de 
@@ -161,28 +161,28 @@ Resumen
 
 /****************************************/
 
-.container: ancho fijo
-.container-fluid: ancho fluido
-mt - margin top
-mb - margin bottom
-mr - margin right
-ml - margin left
-m - margin
-mx = left y -right
-my = -top y -bottom
-pt - margin top
-pb - margin bottom
-pr - margin right
-pl - margin left
-p - margin
-px = left y -right
-py = top y -bottom
-.row = fila
-.col-sm = pantallas pequeñas
-.col-md = pantallas medianas
-.col-lg = pantallas grandes
-.col-xl = pantallas extra grandes
-offset = espacios en blanco entre columnas
+.container: ancho fijo ***
+.container-fluid: ancho fluido ***
+mt - margin top ***
+mb - margin bottom ***
+mr - margin right ***
+ml - margin left ***
+m - margin *** 
+mx = left y -right ***
+my = -top y -bottom ***
+pt - margin top ***
+pb - margin bottom ***
+pr - margin right ***
+pl - margin left ***
+p - margin ***
+px = left y right ***
+py = top y bottom ***
+.row = fila ***
+.col-sm = pantallas pequeñas ***
+.col-md = pantallas medianas ***
+.col-lg = pantallas grandes ***
+.col-xl = pantallas extra grandes ***
+offset = espacios en blanco entre columnas ***
 
 Alinear un texto para un tamaño de pantalla especifico
 Por defecto
